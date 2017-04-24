@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Soundboard/SoundViewController.swift"
-            timestampString = "514670242.294012"
+            timestampString = "514751079.71617"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
             landmarkName = "setupRecorder()"
             landmarkType = "7">
          </BreakpointContent>
